@@ -1,0 +1,24 @@
+{"text": "The Brand may use the content in perpetuity on all channels.", "expect": ["usage_perpetual"]}
+{"text": "Creator grants an irrevocable licence to the content.", "expect": ["usage_perpetual"]}
+{"text": "Brand may use the content on its organic channels for 12 months.", "expect": []}
+{"text": "Usage is licensed for 24 months worldwide.", "expect": ["usage_long"]}
+{"text": "Brand may run the content as Spark Ads on TikTok.", "expect": ["paid_no_fee"]}
+{"text": "Brand may run the content as paid ads subject to a separate usage fee of EUR 500.", "expect": []}
+{"text": "For twelve months Creator shall not promote any other beverage brand.", "expect": ["exclusivity"]}
+{"text": "Exclusivity applies for 1 month to the named competitors in Annex A, in consideration of the exclusivity fee.", "expect": []}
+{"text": "Payment shall be made net 60 after receipt of invoice.", "expect": ["pay_slow"]}
+{"text": "Payment shall be made within 120 days.", "expect": ["pay_slow"]}
+{"text": "The fee is payable net 30 following final approval of the campaign by the Brand.", "expect": ["pay_trigger"]}
+{"text": "The fee is payable net 30 from the posting date.", "expect": []}
+{"text": "Creator agrees to unlimited revisions.", "expect": ["revisions"]}
+{"text": "The fee includes two rounds of revisions.", "expect": []}
+{"text": "Creator will deliver unedited raw files with the final video.", "expect": ["raw_files"]}
+{"text": "Creator assigns all intellectual property rights in the content to the Brand.", "expect": ["ip_transfer"]}
+{"text": "The content is a work made for hire.", "expect": ["ip_transfer"]}
+{"text": "Creator keeps ownership and grants a limited licence.", "expect": []}
+{"text": "This agreement automatically renews every quarter.", "expect": ["auto_renew"]}
+{"text": "Brand may terminate at any time.", "expect": ["kill_fee"]}
+{"text": "Brand may cancel at any time; a kill fee of 50% applies after the brief is accepted.", "expect": []}
+{"text": "Creator must avoid any conduct bringing the Brand into disrepute.", "expect": ["morality_one_sided"]}
+{"text": "Either party may end the agreement if the other brings it into disrepute.", "expect": []}
+{"text": "Posts must carry the label Werbung at the start of the caption.", "expect": []}
